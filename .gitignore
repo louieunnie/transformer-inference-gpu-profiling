@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# PyTorch / CUDA
+*.pt
+*.pth
+
+# Profiler outputs
+*.json
+*.csv
+*.log
+
+# OS
+.DS_Store
